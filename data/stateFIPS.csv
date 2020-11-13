@@ -1,0 +1,52 @@
+﻿Name,State,Region,RegionName,Division,DivName
+Connecticut,9,1,Northeast Region,1,New England Division
+Maine,23,1,Northeast Region,1,New England Division
+Massachusetts,25,1,Northeast Region,1,New England Division
+New Hampshire,33,1,Northeast Region,1,New England Division
+Rhode Island,44,1,Northeast Region,1,New England Division
+Vermont,50,1,Northeast Region,1,New England Division
+New Jersey,34,1,Northeast Region,2,Middle Atlantic Division
+New York,36,1,Northeast Region,2,Middle Atlantic Division
+Pennsylvania,42,1,Northeast Region,2,Middle Atlantic Division
+Illinois,17,2,Midwest Region,3,East North Central Division
+Indiana,18,2,Midwest Region,3,East North Central Division
+Michigan,26,2,Midwest Region,3,East North Central Division
+Ohio,39,2,Midwest Region,3,East North Central Division
+Wisconsin,55,2,Midwest Region,3,East North Central Division
+Iowa,19,2,Midwest Region,4,West North Central Division
+Kansas,20,2,Midwest Region,4,West North Central Division
+Minnesota,27,2,Midwest Region,4,West North Central Division
+Missouri,29,2,Midwest Region,4,West North Central Division
+Nebraska,31,2,Midwest Region,4,West North Central Division
+North Dakota,38,2,Midwest Region,4,West North Central Division
+South Dakota,46,2,Midwest Region,4,West North Central Division
+Delaware,10,3,South Region,5,South Atlantic Division
+District of Columbia,11,3,South Region,5,South Atlantic Division
+Florida,12,3,South Region,5,South Atlantic Division
+Georgia,13,3,South Region,5,South Atlantic Division
+Maryland,24,3,South Region,5,South Atlantic Division
+North Carolina,37,3,South Region,5,South Atlantic Division
+South Carolina,45,3,South Region,5,South Atlantic Division
+Virginia,51,3,South Region,5,South Atlantic Division
+West Virginia,54,3,South Region,5,South Atlantic Division
+Alabama,1,3,South Region,6,East South Central Division
+Kentucky,21,3,South Region,6,East South Central Division
+Mississippi,28,3,South Region,6,East South Central Division
+Tennessee,47,3,South Region,6,East South Central Division
+Arkansas,5,3,South Region,7,West South Central Division
+Louisiana,22,3,South Region,7,West South Central Division
+Oklahoma,40,3,South Region,7,West South Central Division
+Texas,48,3,South Region,7,West South Central Division
+Arizona,4,4,West Region,8,Mountain Division
+Colorado,8,4,West Region,8,Mountain Division
+Idaho,16,4,West Region,8,Mountain Division
+Montana,30,4,West Region,8,Mountain Division
+Nevada,32,4,West Region,8,Mountain Division
+New Mexico,35,4,West Region,8,Mountain Division
+Utah,49,4,West Region,8,Mountain Division
+Wyoming,56,4,West Region,8,Mountain Division
+Alaska,2,4,West Region,9,Pacific Division
+California,6,4,West Region,9,Pacific Division
+Hawaii,15,4,West Region,9,Pacific Division
+Oregon,41,4,West Region,9,Pacific Division
+Washington,53,4,West Region,9,Pacific Division
